@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #083344;
+}
+
+#lmao {
+  background-color: #1e2732;
+  background-color: #f91980;
+}
