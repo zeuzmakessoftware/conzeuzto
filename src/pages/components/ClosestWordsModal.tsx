@@ -1,4 +1,4 @@
-import Gusses from "./Gusses";
+import Gusses from "./Guesses";
 
 interface ClosestWordsModalProps {
     closestWords: {

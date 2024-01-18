@@ -1,5 +1,5 @@
 import WordTyper from "./WordTyper";
-import Gusses from "./Gusses";
+import Gusses from "./Guesses";
 import GuessCounter from "./GuessCounter";
 import YouWin from "./YouWin";
 import ClosestWordsModal from "./ClosestWordsModal";
